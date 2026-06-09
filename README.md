@@ -12,93 +12,66 @@
 
 ---
 
-## About Me
+Full Stack Developer from Rio Grande do Sul, Brazil. I started on the factory floor and in logistics — then moved into tech, eventually becoming the sole developer of internal systems used across an entire company. That background shapes how I build: focused on real problems, real users.
 
-I'm a Full Stack Developer from Rio Grande do Sul, Brazil, with hands-on experience building corporate systems, internal tools, and REST APIs in production environments.
-
-I started my career on the factory floor and in logistics operations, which gave me a practical perspective on how software actually gets used. Over time, I moved into tech, eventually becoming the developer responsible for building and maintaining systems used by an entire company. That background shapes how I write code: focused on solving real problems, not just passing tests.
-
-Currently, I'm actively expanding my portfolio with personal projects using **Laravel + React + Vite**, sharpening modern full stack skills while looking for my next opportunity.
+Currently expanding my portfolio with **Laravel + React + Vite** projects while looking for my next opportunity.
 
 ---
 
 ## Tech Stack
 
-**Backend**
-`PHP` `Laravel` `Python` `REST APIs` `Laravel Sanctum` `API Integration`
-
-**Frontend**
-`JavaScript` `React` `Next.js` `Vite` `jQuery` `HTML5` `CSS3`
-
-**Database**
-`MySQL` `SQL` `Data Modeling`
-
-**Tools & Others**
-`Git` `GitHub` `Postman` `Linux` `VBA` `SAP`
+`PHP` `Laravel` `Python` `React` `Next.js` `Vite` `JavaScript` `jQuery` `MySQL` `REST APIs` `Laravel Sanctum` `Git` `Linux` `VBA` `SAP`
 
 ---
 
-## Featured Projects
+## Projects
 
-### [Task Manager](https://github.com/localhost-ayu/task-manager)
-> Full Stack task management application built with Laravel 13 + React 19 + Vite + MySQL
+### [Appointment Scheduler](https://github.com/localhost-ayu/appointment-scheduler)
+> Full-stack booking platform with public flow and professional dashboard. Light/dark design system inspired by Linear/Vercel.
 
-- User registration and authentication via REST API
-- Full task CRUD with access control
-- Modern React frontend with clean UX
+`Laravel` `React` `Vite` `MySQL`
 
 ---
 
 ### [Expense Tracker](https://github.com/localhost-ayu/expense-tracker)
-> Personal finance control system — Full Stack with Laravel 13 + React 19 + Vite + MySQL
+> Personal finance system with category-based tracking, financial dashboard, and Recharts visualizations.
 
-- Income and expense tracking with categories
-- Dashboard with financial summary
-- REST API fully integrated with React frontend
+`Laravel` `React` `Recharts` `MySQL`
+
+---
+
+### [Task Manager](https://github.com/localhost-ayu/task-manager)
+> Auth + CRUD task app. First Laravel + React integration — covers Sanctum, CORS, Axios interceptors, AuthContext.
+
+`Laravel` `React` `Sanctum` `MySQL`
 
 ---
 
 ### AlocaGestor *(Corporate — Internal)*
-> Operational management system developed for IN-Haus Serviços Industriais e Logística
+> Operational management platform built in production for IN-Haus Serviços Industriais e Logística. Team allocation, reports, dashboards.
 
-- Team and leadership management
-- Operational allocation control
-- Administrative reports and dashboards
-- Built with PHP, Laravel, MySQL, and JavaScript in a production environment
+`PHP` `Laravel` `MySQL` `JavaScript`
 
 ---
 
-## Professional Experience
+## Experience
 
 **Jr. Project Analyst — IN-Haus Serviços Industriais e Logística LTDA** *(Nov 2023 – Mar 2026)*
-- Developed and maintained internal systems using PHP, Laravel, and MySQL
-- Built dashboards and web interfaces with JavaScript, React, and Next.js
-- Created REST APIs and middlewares for inter-system communication
-- Fully developed **AlocaGestor**, a corporate operational management platform
-- Maintained and evolved features in the **GPSVista** system
-- Automated administrative processes with VBA
+- Built and maintained internal systems (PHP, Laravel, MySQL)
+- Developed REST APIs and dashboards (React, Next.js, JavaScript)
+- Sole developer of AlocaGestor and maintainer of GPSVista
+- Automated administrative workflows with VBA
 
-**Fiscal/Logistics Analyst** *(Aug 2021 – Nov 2023)*
-- Fiscal document issuance and control
-- SAP operation in logistics workflows
-- Transport order processing and administrative data analysis
+**Fiscal/Logistics Analyst — IN-Haus** *(Aug 2021 – Nov 2023)*
+- Fiscal document control, SAP operations, transport order processing
 
 ---
 
-## Education & Courses
+## Education & Languages
 
-- 🎓 Systems Analysis and Development — Estácio de Sá University *(incomplete)*
-- 📜 Web Programming — IFSUL (PHP, HTML, CSS, JavaScript, Java)
-- 📜 Python and MySQL Programming — Udemy
-- 📜 Programming Logic — Pontocom Informática
+Systems Analysis and Development — Estácio de Sá · Web Programming — IFSUL · Python & MySQL — Udemy
 
----
-
-## Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate/Advanced
-- 🇪🇸 Spanish — Basic
+Portuguese (native) · English (intermediate/advanced) · Spanish (basic)
 
 ---
 
