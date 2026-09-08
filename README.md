@@ -2,83 +2,74 @@
 
 # Nathã Grazzioli Botelho
 
-**Full Stack Developer** · PHP · Laravel · React · MySQL · REST APIs
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems" alt="Full-Stack Developer | Laravel + React" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathã-grazzioli-botelho)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nathagrazzioli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/localhost-ayu)
+<a href="https://linkedin.com/in/nathã-grazzioli-botelho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nathagrazzioli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/localhost-ayu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
+## `whoami`
 
-Full Stack Developer from Rio Grande do Sul, Brazil. I started on the factory floor and in logistics — then moved into tech, eventually becoming the sole developer of internal systems used across an entire company. That background shapes how I build: focused on real problems, real users.
+Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational problems into useful, maintainable software—drawing on my background in logistics and my experience as the **sole developer** of internal business platforms.
 
-Currently expanding my portfolio with **Laravel + React + Vite** projects while looking for my next opportunity.
+**Focus:** Laravel and CodeIgniter back ends · React interfaces · REST APIs · SQL databases · workflow automation
 
----
+## Toolkit
 
-## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,python,mysql,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Python, MySQL, Git, Linux" />
+</p>
 
-`PHP` `Laravel` `Python` `React` `Next.js` `Vite` `JavaScript` `jQuery` `MySQL` `REST APIs` `Laravel Sanctum` `Git` `Linux` `VBA` `SAP`
+`CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `REST APIs` · `jQuery` · `VBA` · `SAP`
 
----
+## Selected Work
 
-## Projects
-
-### [ApproveHub](https://github.com/localhost-ayu/approvehub)
-> Corporate request approval system with role-based workflows, audit history and real-time status tracking. Light/dark mode, EN/PT-BR internationalization.
-`Laravel 13` `React 19` `TypeScript` `Sanctum` `MySQL`
-
----
-
-### [Appointment Scheduler](https://github.com/localhost-ayu/appointment-scheduler)
-> Full-stack booking platform with public flow and professional dashboard. Light/dark design system inspired by Linear/Vercel.
-`Laravel` `React` `Vite` `MySQL`
-
----
-
-### [Expense Tracker](https://github.com/localhost-ayu/expense-tracker)
-> Personal finance system with category-based tracking, financial dashboard, and Recharts visualizations.
-`Laravel` `React` `Recharts` `MySQL`
-
----
-
-### [Task Manager](https://github.com/localhost-ayu/task-manager)
-> Auth + CRUD task app. First Laravel + React integration — covers Sanctum, CORS, Axios interceptors, AuthContext.
-`Laravel` `React` `Sanctum` `MySQL`
-
----
-
-### AlocaGestor *(Corporate — Internal)*
-> Operational management platform built in production for IN-Haus Serviços Industriais e Logística. Team allocation, reports, dashboards.
-`PHP` `Laravel` `MySQL` `JavaScript`
-
----
+| Project | What I built | Stack |
+| :-- | :-- | :-- |
+| [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Corporate approvals with role-based workflows, audit history, real-time status, EN/PT-BR, and light/dark mode. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
+| [**Appointment Scheduler**](https://github.com/localhost-ayu/appointment-scheduler) | Booking platform with a public scheduling flow and professional dashboard. | `Laravel` `React` `Vite` `MySQL` |
+| [**Expense Tracker**](https://github.com/localhost-ayu/expense-tracker) | Personal-finance dashboard with category tracking and visual insights. | `Laravel` `React` `Recharts` |
+| [**Task Manager**](https://github.com/localhost-ayu/task-manager) | Authenticated CRUD app built around CORS, Axios interceptors, and AuthContext. | `Laravel` `React` `Sanctum` |
+| **AlocaGestor** *(internal)* | Production operations platform for IN-Haus: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
 
 ## Experience
 
-**Jr. Project Analyst — IN-Haus Serviços Industriais e Logística LTDA** *(Nov 2023 – Mar 2026)*
-- Built and maintained internal systems (PHP, Laravel, MySQL)
-- Developed REST APIs and dashboards (React, Next.js, JavaScript)
-- Sole developer of AlocaGestor and maintainer of GPSVista
-- Automated administrative workflows with VBA
+**Analista Desenvolvedor Pleno** · Credware Tecnologia <br />
+`Current`
 
-**Fiscal/Logistics Analyst — IN-Haus** *(Aug 2021 – Nov 2023)*
-- Fiscal document control, SAP operations, transport order processing
+- Maintain and evolve **legacy CodeIgniter 3** systems, improving reliability while supporting daily business operations
+- Deliver features and full projects with **PHP, Laravel, React, and CodeIgniter**
+- Work across **SQL Server** and MySQL databases, from data modeling and queries to system integrations
+- Build REST APIs, dashboards, and web interfaces; contribute across the full development lifecycle
 
----
+**Project Analyst** · IN-Haus Serviços Industriais e Logística LTDA  
+`Nov 2023 — Mar 2026`
 
-## Education & Languages
+- Delivered and maintained internal systems with **PHP, Laravel, and MySQL**
+- Built **REST APIs**, dashboards, and web interfaces with **React, Next.js, and JavaScript**
+- Owned **AlocaGestor** end-to-end and maintained **GPSVista**
+- Automated administrative workflows with **VBA**
 
-Systems Analysis and Development — Estácio de Sá · Web Programming — IFSUL · Python & MySQL — Udemy
+<details>
+<summary><b>Earlier experience & education</b></summary>
+<br />
 
-Portuguese (native) · English (intermediate/advanced) · Spanish (basic)
+**Fiscal & Logistics Analyst** · IN-Haus · `Aug 2021 — Nov 2023`  
+Fiscal document control, SAP operations, and transport-order processing.
 
----
+**Education:** Systems Analysis and Development — Estácio de Sá · Web Programming — IFSUL · Python & MySQL — Udemy  
+**Languages:** Portuguese (native) · English (intermediate/advanced) · Spanish (basic)
+
+</details>
 
 <div align="center">
-
-*Building things that actually work, for people who actually use them.*
-
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=localhost-ayu&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" height="150" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost-ayu&layout=compact&hide_border=true&theme=transparent&text_color=c9d1d9&title_color=58a6ff" height="150" alt="Most used languages" />
+  <br /><br />
+  <i>Building software that makes work simpler.</i>
 </div>
