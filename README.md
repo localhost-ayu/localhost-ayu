@@ -21,7 +21,7 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 ## Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,python,mysql,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Python, MySQL, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,python,mysql,docker,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Python, MySQL, Docker, Git, Linux" />
 </p>
 
 `CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `REST APIs` · `jQuery` · `VBA` · `SAP`
@@ -42,6 +42,7 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 `Current`
 
 - Maintain and evolve **legacy CodeIgniter 3** systems, improving reliability while supporting daily business operations
+- Containerize and modernize legacy applications with **Docker**, streamlining local setup and easing future migrations
 - Deliver features and full projects with **PHP, Laravel, React, and CodeIgniter**
 - Work across **SQL Server** and MySQL databases, from data modeling and queries to system integrations
 - Build REST APIs, dashboards, and web interfaces; contribute across the full development lifecycle
