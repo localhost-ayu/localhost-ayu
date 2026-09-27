@@ -14,7 +14,7 @@
 
 ## `whoami`
 
-Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational problems into useful, maintainable software—drawing on my background in logistics and my experience as the **sole developer** of internal business platforms.
+Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational problems into useful, maintainable software—drawing on my background in logistics and my experience as the **sole developer** of internal business platforms, including one currently in production for 100+ users.
 
 **Focus:** Laravel and CodeIgniter back ends · React interfaces · REST APIs · SQL databases · workflow automation
 
@@ -32,13 +32,13 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 | :-- | :-- | :-- |
 | [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Corporate approvals with role-based workflows, audit history, real-time status, EN/PT-BR, and light/dark mode. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
 | [**Appointment Scheduler**](https://github.com/localhost-ayu/appointment-scheduler) | Booking platform with a public scheduling flow and professional dashboard. | `Laravel` `React` `Vite` `MySQL` |
-| [**Expense Tracker**](https://github.com/localhost-ayu/expense-tracker) | Personal-finance dashboard with category tracking and visual insights. | `Laravel` `React` `Recharts` |
+| [**cifra**](https://github.com/localhost-ayu/cifra) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
 | [**Task Manager**](https://github.com/localhost-ayu/task-manager) | Authenticated CRUD app built around CORS, Axios interceptors, and AuthContext. | `Laravel` `React` `Sanctum` |
-| **AlocaGestor** *(internal)* | Production operations platform for IN-Haus: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
+| **AlocaGestor** *(internal)* | Production operations platform serving 100+ users: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
 
 ## Experience
 
-**Analista Desenvolvedor Pleno** · Credware Tecnologia <br />
+**Mid-Level Developer** · Credware Tecnologia <br />
 `Current`
 
 - Maintain and evolve **legacy CodeIgniter 3** systems, improving reliability while supporting daily business operations
@@ -62,7 +62,7 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 Fiscal document control, SAP operations, and transport-order processing.
 
 **Education:** Systems Analysis and Development — Estácio de Sá · Web Programming — IFSUL · Python & MySQL — Udemy  
-**Languages:** Portuguese (native) · English (intermediate/advanced) · Spanish (basic)
+**Languages:** Portuguese (native) · English (advanced, C1) · Spanish (basic)
 
 </details>
 
