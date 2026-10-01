@@ -32,7 +32,7 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 | :-- | :-- | :-- |
 | [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Corporate approvals with role-based workflows, audit history, real-time status, EN/PT-BR, and light/dark mode. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
 | [**Appointment Scheduler**](https://github.com/localhost-ayu/appointment-scheduler) | Booking platform with a public scheduling flow and professional dashboard. | `Laravel` `React` `Vite` `MySQL` |
-| [**cifra**](https://github.com/localhost-ayu/cifra) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
+| [**aflua**](https://github.com/localhost-ayu/aflua) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
 | [**Task Manager**](https://github.com/localhost-ayu/task-manager) | Authenticated CRUD app built around CORS, Axios interceptors, and AuthContext. | `Laravel` `React` `Sanctum` |
 | **AlocaGestor** *(internal)* | Production operations platform serving 100+ users: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
 
