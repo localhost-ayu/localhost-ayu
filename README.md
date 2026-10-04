@@ -68,9 +68,5 @@ Fiscal document control, SAP operations, and transport-order processing.
 </details>
 
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=localhost-ayu&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" height="150" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost-ayu&layout=compact&hide_border=true&theme=transparent&text_color=c9d1d9&title_color=58a6ff" height="150" alt="Most used languages" />
-  <br /><br />
   <i>Building software that makes work simpler.</i>
 </div>
