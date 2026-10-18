@@ -2,11 +2,12 @@
 
 # Nathã Grazzioli Botelho
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems" alt="Full-Stack Developer | Laravel + React" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Laravel+%2B+React;Building+software+for+real+business+problems" alt="Software Engineer | Laravel + React" />
 </a>
 
-<a href="https://linkedin.com/in/nathã-grazzioli-botelho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://grazzioli.dev"><img src="https://img.shields.io/badge/Portfolio-grazzioli.dev-E0B860?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Portfolio: grazzioli.dev" /></a>
+<a href="https://www.linkedin.com/in/nath%C3%A3-grazzioli-botelho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nathagrazzioli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/localhost-ayu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -14,9 +15,11 @@
 
 ## `whoami`
 
-Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational problems into useful, maintainable software—drawing on my background in logistics and my experience as the **sole developer** of internal business platforms, including one currently in production for 100+ users.
+Software Engineer based in **Rio Grande do Sul, Brazil**. I turn operational problems into useful, maintainable software—drawing on my background in logistics and my experience as the **sole developer** of internal business platforms, including one currently in production for 100+ users.
 
 **Focus:** Laravel and CodeIgniter back ends · React interfaces · REST APIs · SQL databases · workflow automation
+
+**Portfolio:** [grazzioli.dev](https://grazzioli.dev) — a tiling-window workstation with case studies, a working terminal and a game you can play.
 
 ## Toolkit
 
@@ -30,15 +33,16 @@ Full-Stack Developer based in **Rio Grande do Sul, Brazil**. I turn operational 
 
 | Project | What I built | Stack |
 | :-- | :-- | :-- |
+| [**Elden Grid**](https://github.com/localhost-ayu/elden-grid) · [play in the browser](https://grazzioli.dev/#/projects/elden-grid) | Terminal idle game with zero dependencies: pure, deterministic core, diff rendering, atomic saves and a balance simulator. Runs unmodified on my portfolio. | `Node.js` `JavaScript` `node:test` |
 | [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Corporate approvals with role-based workflows, audit history, real-time status, EN/PT-BR, and light/dark mode. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
-| [**Appointment Scheduler**](https://github.com/localhost-ayu/appointment-scheduler) | Booking platform with a public scheduling flow and professional dashboard. | `Laravel` `React` `Vite` `MySQL` |
+| [**Scheduler**](https://grazzioli.dev/#/projects/scheduler) *(private source)* | Booking platform for service businesses: public booking flow, professional dashboard and admin area. | `Laravel 13` `React 19` `TypeScript` `MySQL` |
 | [**aflua**](https://github.com/localhost-ayu/aflua) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
 | [**Task Manager**](https://github.com/localhost-ayu/task-manager) | Authenticated CRUD app built around CORS, Axios interceptors, and AuthContext. | `Laravel` `React` `Sanctum` |
 | **AlocaGestor** *(internal)* | Production operations platform serving 100+ users: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
 
 ## Experience
 
-**Mid-Level Developer** · Credware Tecnologia <br />
+**Mid-Level Developer Analyst** · Credware Tecnologia <br />
 `Current`
 
 - Maintain and evolve **legacy CodeIgniter 3** systems, improving reliability while supporting daily business operations
