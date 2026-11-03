@@ -21,24 +21,26 @@ Desenvolvedor full stack no **Rio Grande do Sul**. Transformo problemas da opera
 
 **Foco:** back-ends em Laravel e CodeIgniter · interfaces em React · APIs REST · bancos SQL · automação de processos
 
-**Portfólio:** [grazzioli.dev](https://grazzioli.dev): uma workstation em tiling com cases, um terminal que funciona e um jogo para jogar.
+**Portfólio:** [grazzioli.dev](https://grazzioli.dev): uma workstation em tiling com cases, um terminal que funciona, um jogo para jogar e demos que abrem ali dentro.
 
 ## Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,python,mysql,docker,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Python, MySQL, Docker, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,tailwind,python,mysql,postgres,supabase,docker,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Tailwind CSS, Python, MySQL, PostgreSQL, Supabase, Docker, Git, Linux" />
 </p>
 
-`CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `APIs REST` · `jQuery` · `VBA` · `SAP`
+`CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `Zod` · `Vitest` · `APIs REST` · `jQuery` · `VBA` · `SAP`
 
 ## Projetos
 
 | Projeto | O que construí | Stack |
 | :-- | :-- | :-- |
-| [**Elden Grid**](https://github.com/localhost-ayu/elden-grid) · [jogar no navegador](https://grazzioli.dev/#/projects/elden-grid) | Idle game de terminal sem dependências: núcleo puro e determinístico, renderização por diferença, saves atômicos e um simulador de balanceamento. Roda sem modificações no meu portfólio. | `Node.js` `JavaScript` `node:test` |
+| [**Save State**](https://github.com/localhost-ayu/save-state) · [no ar](https://savestate.grazzioli.dev) | Diário de jogos: biblioteca, jogatinas com datas e horas próprias, reviews, kanban e um perfil público montado com módulos, com editor de tema que mantém o texto legível (contraste WCAG). Row Level Security em todas as tabelas. | `Next.js 16` `React 19` `Supabase` `PostgreSQL` `Tailwind 4` |
+| [**Souls Challenge Generator**](https://github.com/localhost-ayu/souls-challenge-generator) · [no ar](https://souls.grazzioli.dev) | Challenge runs de Dark Souls Remastered sempre coerentes e recriadas a partir de uma seed curta. Engine em TypeScript puro, PRNG com semente, 20.000 runs geradas e conferidas nos testes. Site 100% estático. | `Next.js 16` `TypeScript` `Zod` `Vitest` |
+| [**Elden Grid**](https://github.com/localhost-ayu/elden-grid) · [jogar no navegador](https://grazzioli.dev/#/projects/elden-grid) | Idle game de terminal sem dependências, do bairro à galáxia na escala de Kardashev: núcleo puro e determinístico, renderização por diferença, saves atômicos e um simulador de balanceamento. Roda sem modificações no meu portfólio. | `Node.js` `JavaScript` `node:test` |
 | [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Aprovações corporativas com fluxos por perfil, histórico de auditoria, status em tempo real, EN/PT-BR e temas claro e escuro. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
 | [**Scheduler**](https://grazzioli.dev/#/projects/scheduler) *(código privado)* | Agendamento online para negócios de serviço: fluxo de reserva aberto ao público, painel do profissional e área administrativa. | `Laravel 13` `React 19` `TypeScript` `MySQL` |
-| [**aflua**](https://github.com/localhost-ayu/aflua) | Controle financeiro pessoal que evoluiu de MVP para produto: identidade visual própria, interface EN/PT-BR, temas claro e escuro e estados de interação refinados. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
+| [**aflua**](https://github.com/localhost-ayu/aflua) · [demo](https://aflua.grazzioli.dev) | Controle financeiro pessoal que evoluiu de MVP para produto: identidade visual própria, interface EN/PT-BR, temas claro e escuro e estados de interação refinados. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
 | [**Task Manager**](https://github.com/localhost-ayu/task-manager) | CRUD com autenticação, construído em torno de CORS, interceptors do Axios e AuthContext. | `Laravel` `React` `Sanctum` |
 | **AlocaGestor** *(interno)* | Plataforma de operações em produção para mais de 100 pessoas: alocação de equipes, relatórios e dashboards. | `PHP` `Laravel` `MySQL` |
 

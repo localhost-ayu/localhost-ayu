@@ -21,24 +21,26 @@ Software Engineer based in **Rio Grande do Sul, Brazil**. I turn operational pro
 
 **Focus:** Laravel and CodeIgniter back ends · React interfaces · REST APIs · SQL databases · workflow automation
 
-**Portfolio:** [grazzioli.dev](https://grazzioli.dev) — a tiling-window workstation with case studies, a working terminal and a game you can play.
+**Portfolio:** [grazzioli.dev](https://grazzioli.dev) — a tiling-window workstation with case studies, a working terminal, a game you can play and live demos that open right inside it.
 
 ## Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,python,mysql,docker,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Python, MySQL, Docker, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nextjs,vite,tailwind,python,mysql,postgres,supabase,docker,git,linux&theme=dark" alt="PHP, Laravel, React, TypeScript, JavaScript, Next.js, Vite, Tailwind CSS, Python, MySQL, PostgreSQL, Supabase, Docker, Git, Linux" />
 </p>
 
-`CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `REST APIs` · `jQuery` · `VBA` · `SAP`
+`CodeIgniter` · `SQL Server` · `Laravel Sanctum` · `Zod` · `Vitest` · `REST APIs` · `jQuery` · `VBA` · `SAP`
 
 ## Selected Work
 
 | Project | What I built | Stack |
 | :-- | :-- | :-- |
-| [**Elden Grid**](https://github.com/localhost-ayu/elden-grid) · [play in the browser](https://grazzioli.dev/#/projects/elden-grid) | Terminal idle game with zero dependencies: pure, deterministic core, diff rendering, atomic saves and a balance simulator. Runs unmodified on my portfolio. | `Node.js` `JavaScript` `node:test` |
+| [**Save State**](https://github.com/localhost-ayu/save-state) · [live](https://savestate.grazzioli.dev) | Game journal: library, playthroughs with their own dates and hours, reviews, a kanban and a public profile built from modules, with a theme editor that keeps text readable (WCAG contrast). Row Level Security on every table. | `Next.js 16` `React 19` `Supabase` `PostgreSQL` `Tailwind 4` |
+| [**Souls Challenge Generator**](https://github.com/localhost-ayu/souls-challenge-generator) · [live](https://souls.grazzioli.dev) | Dark Souls Remastered challenge runs that are always coherent and rebuilt from a short seed. Pure TypeScript engine, seeded PRNG, 20,000 generated runs checked in the tests. Fully static. | `Next.js 16` `TypeScript` `Zod` `Vitest` |
+| [**Elden Grid**](https://github.com/localhost-ayu/elden-grid) · [play in the browser](https://grazzioli.dev/#/projects/elden-grid) | Terminal idle game with zero dependencies, from a neighborhood to the galaxy on the Kardashev scale: pure, deterministic core, diff rendering, atomic saves and a balance simulator. Runs unmodified on my portfolio. | `Node.js` `JavaScript` `node:test` |
 | [**ApproveHub**](https://github.com/localhost-ayu/approvehub) | Corporate approvals with role-based workflows, audit history, real-time status, EN/PT-BR, and light/dark mode. | `Laravel 13` `React 19` `TypeScript` `Sanctum` |
 | [**Scheduler**](https://grazzioli.dev/#/projects/scheduler) *(private source)* | Booking platform for service businesses: public booking flow, professional dashboard and admin area. | `Laravel 13` `React 19` `TypeScript` `MySQL` |
-| [**aflua**](https://github.com/localhost-ayu/aflua) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
+| [**aflua**](https://github.com/localhost-ayu/aflua) · [demo](https://aflua.grazzioli.dev) | Personal-finance tracker evolved from an MVP into a full product: custom visual identity, EN/PT-BR interface, dark/light themes, and refined interaction states. | `Laravel 13` `Sanctum` `React 19` `Recharts` |
 | [**Task Manager**](https://github.com/localhost-ayu/task-manager) | Authenticated CRUD app built around CORS, Axios interceptors, and AuthContext. | `Laravel` `React` `Sanctum` |
 | **AlocaGestor** *(internal)* | Production operations platform serving 100+ users: team allocation, reporting, and dashboards. | `PHP` `Laravel` `MySQL` |
 
